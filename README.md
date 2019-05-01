@@ -1,1 +1,1 @@
-# rc-files
+A repository to manage many different rc and similar configuartion file. This allows for creating a single location from pulling configuration for all kinds of programs that I use on many different systems, and can allows a better way to manage different variation that some systems require.
